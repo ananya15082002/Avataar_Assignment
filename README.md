@@ -97,8 +97,10 @@ The product is resized and placed on a logical surface, avoiding overlap with ob
 
 ![image](https://github.com/user-attachments/assets/088ccde1-2dd0-4313-bd71-ced05d9e1469)
 ![image](https://github.com/user-attachments/assets/1298ce21-e597-416d-8365-7c67e8c20222)
+
 ![image](https://github.com/user-attachments/assets/62d9dcd6-71e1-49df-b1cd-2a90819d25ed)
 ![image](https://github.com/user-attachments/assets/b5877052-f9b4-427a-ba2c-258258bd1e5a)
 ![image](https://github.com/user-attachments/assets/c73b85c5-4f09-43a8-9d89-c3e02b9261fc)
-![image](https://github.com/user-attachments/assets/123196b6-335a-422e-adf0-c9abcce875bb)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/967e7dc9-dd78-4588-9873-4196dddc4efa)
+![image](https://github.com/user-attachments/assets/50a1bdfd-c33c-4f4b-beda-617d1f315665)
+
