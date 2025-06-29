@@ -1,6 +1,6 @@
-# Avataar_Assignment
+# Avataar
 
-## Assignment: Placing an Object’s Image in a Text-Conditioned Scene
+##  Placing an Object’s Image in a Text-Conditioned Scene
 
 ### Author: Ananya
 
